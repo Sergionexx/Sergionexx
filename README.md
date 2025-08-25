@@ -44,12 +44,7 @@ Senior Software Developer | Mobile & Web Applications | AR/VR Enthusiast
 🐙 [YAPYSOFT](https://yapysoft.com)  
 🏥 [Salutary](https://salutary.yapysoft.online/) | 📚 [NUVIA](https://nuviaeduca.com/) | 🎯 [Krew](https://yapysoft.com)
 
----
 
-### Stats & Activity 📊
-
-![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergionexx&show_icons=true&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergionexx&layout=compact&theme=radical&hide_border=true)
 
 
 > *"No limits for the dreamer."*  
