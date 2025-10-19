@@ -6,7 +6,7 @@ Senior Software Developer | Mobile & Web Applications | AR/VR Enthusiast
 
 ### What I'm working on 👨‍💻
 
-🎮 Ludixx — A digital sedation system that uses immersive VR experiences to reduce anxiety and stress in patients undergoing medical procedures. Through playful, therapeutic games, Ludixx supports cognitive engagement, speech therapy, focus training, and emotional calm—transforming clinical moments into comforting, interactive journeys.
+🎮 **Ludixx** — A digital sedation system that uses immersive VR experiences to reduce anxiety and stress in patients undergoing medical procedures. Through playful, therapeutic games, Ludixx supports cognitive engagement, speech therapy, focus training, and emotional calm—transforming clinical moments into comforting, interactive journeys.
 🏫 **NUVIA** — A comprehensive management platform for educational institutions, streamlining administration, student tracking, and academic workflows.  
 🎯 **Krew** — A gamified talent acquisition platform that transforms hiring into an engaging, data-driven experience.  
 🏥 **Salutary** — A healthcare management system designed to optimize operations in medical institutions, from appointments to patient records.  
